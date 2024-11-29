@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Kundu</h1>
 <h3 align="center">Senior Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsaket49&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashkundu&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
 
 <p align="left"> <a href="https://www.instagram.com/abhilash__kundu/" target="blank"><img src="https://img.shields.io/twitter/follow/abhilashkundu?logo=instagram&style=for-the-badge" alt="shubham35019205" /></a> </p>
 
