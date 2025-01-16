@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Abhilash Kundu</h1>
-<h3 align="center">Senior Game Developer</h3>
+<h3 align="center">Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsaket49&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
 
