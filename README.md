@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhilash Kundu</h1>
 <h3 align="center">Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsaket49&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashkundu&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaket49" /> </p>
 
 
 <h3 align="left">🙋‍♂️ About Me:</h3><br>
