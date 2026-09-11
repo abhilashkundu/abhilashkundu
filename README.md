@@ -7,7 +7,7 @@
 
 <h3 align="left">🙋‍♂️ About Me:</h3><br>
 
-- 🚀 I'm currently building:: <b>Asabcore Software Solutions</b> — a dual-branch startup delivering B2B XR simulation services and proprietary education tech, including a browser-based LMS alternative built on WebGL & Three.js<br>
+- 🚀 I'm currently building:: <b>LSM (Learning Simulation Management)</b> at Asabcore Software Solutions — see below 👇<br>
 
 - 🌱 I'm currently learning and working on:: <b>Unreal Engine, WebGL/Three.js Simulations, XR Training Systems</b><br>
 
@@ -24,6 +24,29 @@
 - 📄 Know about my projects:: **[My Resume](https://drive.google.com/file/d/1U4EnfnphQHEfrPdItOveAN9dDC9kskPG/view?usp=sharing)**
 - ⚡ Fun fact::<b>  I play competitive games and love making games as well </b>
 <br>
+
+<h3 align="left">🧯 LSM — Learning Simulation Management</h3>
+
+> *"Most training tells you who showed up. LSM tells you who can actually do it."*
+
+LSM is the flagship product I'm building at **Asabcore Software Solutions** — hands-on simulation training that runs entirely in the browser, no headset or install required.
+
+**The problem:** most industrial safety training (fire response, lockout/tagout, equipment operation, emergency response) is still "watch a video, pass a quiz," which proves *completion*, not *competence*. That gap turns into unprovable competence, audit exposure, and an ~80%-deskless workforce that traditional training rarely reaches. Headset VR can measure real competence, but $500+/seat, device logistics, and motion sickness keep it from scaling.
+
+**What LSM does:** replaces the headset with a **3D WebGL simulation that runs on any device from a single link**. It's one product, two halves:
+- **The Simulator** — a real 3D scenario in the browser where every action (grab, aim, sweep, sequence, timing, hesitation) is tracked
+- **The Admin Dashboard** — turns that into competence analytics: who's competent, where training is weak, which step trips people up
+
+**Live today:** a complete, demoable fire-safety module covering the full PASS technique (pull, aim, squeeze, sweep), with six videos, five Q&A segments, and a deep analytics catalog (mastery, efficiency, hesitation, engagement).
+
+**Why it's different:**
+- 🧑‍🚒 Built for high-risk, hands-on roles — manufacturing, mining, oil & gas, warehousing, utilities & energy, construction, aerospace & defense, fire & emergency
+- 🔗 No app, no MDM, no IT project — send a URL, unlimited concurrent trainees, desktop or mobile
+- 🤝 Complements existing LMS platforms rather than replacing them — LSM owns high-risk procedures, your LMS keeps onboarding/compliance, and both roll into one competence record
+- ✍️ No-code authoring — a safety officer draws the procedure as a step graph and publishes it, roughly a 10x drop in content cost vs. traditional sim development
+- 📉 Materially cheaper than headset VR at scale, with no per-seat hardware ceiling
+- 📋 Produces defensible, timestamped, per-employee competence records for audits and insurers
+- 🔒 Verified tenant isolation and no cross-customer data pooling, for security-sensitive organizations
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
