@@ -33,11 +33,13 @@ LSM is the flagship product I'm building at **Asabcore Software Solutions** — 
 
 **The problem:** most industrial safety training (fire response, lockout/tagout, equipment operation, emergency response) is still "watch a video, pass a quiz," which proves *completion*, not *competence*. That gap turns into unprovable competence, audit exposure, and an ~80%-deskless workforce that traditional training rarely reaches. Headset VR can measure real competence, but $500+/seat, device logistics, and motion sickness keep it from scaling.
 
-**What LSM does:** replaces the headset with a **3D WebGL simulation that runs on any device from a single link**. It's one product, two halves:
-- **The Simulator** — a real 3D scenario in the browser where every action (grab, aim, sweep, sequence, timing, hesitation) is tracked
-- **The Admin Dashboard** — turns that into competence analytics: who's competent, where training is weak, which step trips people up
+**What LSM does:** replaces the headset with a **3D WebGL simulation that runs on any device from a single link**. It's one product, three halves:
+- **The LSM Engine** — a browser based 3D engine where multiple types of learning modules can be made (LSM, LMS, 3D standalone Sim) without any code. I also is powered by custom MCP and an AI chatbot that can help the user make end-to-end modules.
+- **The Module** — a 3D simulation in the browser where every action (grab, aim, sweep, sequence, timing, hesitation) is tracked along with other text/video based knowledge scene and QnA's too. 
+- **The eModule Runner** — a browser based runnerthat holds and runs all the different modules with per worker login page.
+- **The Admin Dashboard** — turns all the telemetry from a module into competence analytics: who's competent, where training is weak, which step trips people up and most importantly is powered by AI that serves as a helping hand to the EHS manager/admin, and focuses on improving the overall worker's competence. 
 
-**Live today:** a complete, demoable fire-safety module covering the full PASS technique (pull, aim, squeeze, sweep), with six videos, five Q&A segments, and a deep analytics catalog (mastery, efficiency, hesitation, engagement).
+**Live today:** a complete, demoable fire-safety module covering the full PASS technique (pull, aim, squeeze, sweep), with six videos, five Q&A segments, and a deep analytics catalog (mastery, efficiency, hesitation, engagement). Visit: **https://asabcore.com/lsm/**
 
 **Why it's different:**
 - 🧑‍🚒 Built for high-risk, hands-on roles — manufacturing, mining, oil & gas, warehousing, utilities & energy, construction, aerospace & defense, fire & emergency
@@ -68,7 +70,7 @@ LSM is the flagship product I'm building at **Asabcore Software Solutions** — 
 
 <h3 align="left">Work Experience:</h3>
 
-- **Founder & Game Dev** @ Asabcore Software Solutions — *Feb 2026 – Present* (Assam)
+- **Founder & Game Dev** @ Asabcore Software Solutions — *Feb 2026 – Present* (Assam) - **https://asabcore.com/**
 - **Software Engineer, Games** @ SplashLearn (StudyPad Pvt. Ltd.) — *Feb 2025 – Dec 2025* (Gurgaon)
 - **Unity Game Developer** @ Safety Circle India Pvt. Ltd. — *Nov 2023 – Jan 2025* (Chandigarh)
 - **Unity Game Developer** @ iXR Labs — *Jan 2023 – Oct 2023* (Jaipur)
