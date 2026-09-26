@@ -33,7 +33,7 @@ LSM is the flagship product I'm building at **Asabcore Software Solutions** — 
 
 **The problem:** most industrial safety training (fire response, lockout/tagout, equipment operation, emergency response) is still "watch a video, pass a quiz," which proves *completion*, not *competence*. That gap turns into unprovable competence, audit exposure, and an ~80%-deskless workforce that traditional training rarely reaches. Headset VR can measure real competence, but $500+/seat, device logistics, and motion sickness keep it from scaling.
 
-**What LSM does:** replaces the headset with a **3D WebGL simulation that runs on any device from a single link**. It's one product, three halves:
+**What LSM does:** replaces the headset with a **3D WebGL simulation that runs on any device from a single link**. It's one product, four verticles:
 - **The LSM Engine** — a browser based 3D engine where multiple types of learning modules can be made (LSM, LMS, 3D standalone Sim) without any code. I also is powered by custom MCP and an AI chatbot that can help the user make end-to-end modules.
 - **The Module** — a 3D simulation in the browser where every action (grab, aim, sweep, sequence, timing, hesitation) is tracked along with other text/video based knowledge scene and QnA's too. 
 - **The eModule Runner** — a browser based runnerthat holds and runs all the different modules with per worker login page.
