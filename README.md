@@ -21,7 +21,7 @@
 
 - 😄 Pronouns:: He/Him 💁‍♂️ <br>
 
-- 📄 Know about my projects:: **[My Resume](https://drive.google.com/file/d/1Cwq6jB0oVpy_DIBIJA83cGNm1mXM32zC/view?usp=sharing)**
+- 📄 Know about my projects:: **[My Resume](https://drive.google.com/file/d/1FHAiG-UpkJezpobIJvbXiwwb8htDlPtp/view?usp=sharing)**
 - ⚡ Fun fact::<b>  I play competitive games and love making games as well </b>
 <br>
 
