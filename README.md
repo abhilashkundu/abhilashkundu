@@ -25,7 +25,7 @@
 - ⚡ Fun fact::<b>  I play competitive games and love making games as well </b>
 <br>
 
-<h3 align="left">🧯 LSM — Learning Simulation Management</h3>
+<h3 align="left">🧯 LSM — Learning Simulation Module | Learning Sim Module</h3>
 
 > *"Most training tells you who showed up. LSM tells you who can actually do it."*
 
